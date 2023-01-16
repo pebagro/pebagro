@@ -2,8 +2,6 @@
 <h3 align="center">ICT student - last semester, also aspiring for .NET Dev</h3>
 
 - 🔭 I’m currently working on [simple .NET e-commerce](https://github.com/pebagro/e-commerce-asp-net-core) and my diploma project [Electronic system for registering working time using RFID technology]() - (private repo for now)
-- 
-
 - 📫 How to reach me **bagrowski.pawel@gmail.com or linkedin**
 
 <h3 align="left">Connect with me:</h3>
