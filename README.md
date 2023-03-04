@@ -3,6 +3,7 @@
 
 - 🔭 I’m currently working on [simple .NET e-commerce](https://github.com/pebagro/e-commerce-asp-net-core) and my diploma project [Electronic system for registering working time using RFID technology](https://github.com/pebagro/Diploma-project) - (not ready yet!)
 - 📫 How to reach me **bagrowski.pawel@gmail.com or linkedin**
+- I'm open for any remote jobs offers!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
